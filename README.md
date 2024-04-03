@@ -3,7 +3,7 @@
 ## A project around histology with state of the art machine learning algorithms.
 
 ---
-##### Seize Disease includes many models stretching out into the field of computer vision so that histology is more easily accessible all around the world. Altering some of these models has shown to be beneficial in terms of accuracy and reliability. On top of that, the Seize Disease Website includes a full analyzing tool in which one can upload and alter an histology image. In addition to that, the use and introduction of the [OpenFlexure](https://openflexure.org/) microscope into the project is planned. To use this project, one can visit the website which can be found under this [link](https://seize-disease.streamlit.app/) . 
+##### Seize Disease includes many models stretching out into the field of computer vision so that histology is more easily accessible all around the world. Altering some of these models has shown to be beneficial in terms of accuracy and reliability. On top of that, the Seize Disease Website includes a full analyzing tool in which one can upload and alter an histology image. In addition to that, the use and introduction of the [OpenFlexure](https://openflexure.org/) microscope into the project is planned. 
 
 ##### The Website can be used to analyze and alter an image the following ways:
 - ##### _Tumor Detection_
